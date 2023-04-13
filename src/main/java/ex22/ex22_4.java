@@ -1,5 +1,5 @@
 package ex22;
-
+//Найти путь к данному элементу
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;

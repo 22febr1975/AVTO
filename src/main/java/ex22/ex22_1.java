@@ -3,7 +3,8 @@ package ex22;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
-
+/*Найти как можно кликнуть на кнопку "Вход" элемент используя 4
+        различных локатора(Это могут быть и 4 варианта xpath, нужно чтобы они отличались)*/
 public class ex22_1 {
     private static class url{
         private static final String uhomki = "https://uhomki.com.ua/koshki/1074/";

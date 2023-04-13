@@ -1,5 +1,6 @@
 package ex22;
-
+/*Найти данный элемент по тексту IT- образовние
+        по тексут IT- образование*/
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;

@@ -1,5 +1,6 @@
 package ex22;
-
+/*найти 10 элементов на странице, для нахождения которых можно использовать
+        только айди и с которыми можно взаимодействовать. (Кликнуть, ввести текст и т.д.)*/
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;

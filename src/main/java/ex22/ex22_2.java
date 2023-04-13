@@ -1,5 +1,6 @@
 package ex22;
-
+/*Найти элемент "Каталог", а при помощи него найти путь к элементу
+        "Собаки/кошки общее" используя xpath.*/
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;

@@ -1,4 +1,6 @@
 package ex22;
+/*найти локаторы к двум данным кнопкам.
+        Пользоваться любыми локаторами и методами.*/
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
