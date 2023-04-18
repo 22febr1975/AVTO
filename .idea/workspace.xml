@@ -9,20 +9,13 @@
       <change afterPath="$PROJECT_DIR$/src/main/java/ex23/ex23_1_1.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/ex23/ex23_2.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/ex23/ex23_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ex23/ex23_3_1.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/ex23/ex23_4.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/ex23/ex23_5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ex24/ex24_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ex24/ex24_2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/ClassA.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ClassA.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ex22/ex22_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ex22/ex22_1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ex22/ex22_10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ex22/ex22_10.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ex22/ex22_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ex22/ex22_2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ex22/ex22_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ex22/ex22_3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ex22/ex22_4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ex22/ex22_4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ex22/ex22_5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ex22/ex22_5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ex22/ex22_6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ex22/ex22_6.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ex22/ex22_7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ex22/ex22_7.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ex22/ex22_8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ex22/ex22_8.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ex22/ex22_9.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ex22/ex22_9.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,22 +55,9 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.ex23_5 (3)">
-    <configuration name="ex22_8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex22.ex22_8" />
-      <module name="AVTO" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ex22.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ex23_5 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex23.ex23_5" />
+  <component name="RunManager" selected="Application.ex24_2">
+    <configuration name="ex23_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex23.ex23_2" />
       <module name="AVTO" />
       <extension name="coverage">
         <pattern>
@@ -89,21 +69,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ex23_5 (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex23.ex23_5" />
-      <module name="AVTO" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ex23.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ex23_5 (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex23.ex23_5" />
+    <configuration name="ex23_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex23.ex23_3" />
       <module name="AVTO" />
       <extension name="coverage">
         <pattern>
@@ -128,13 +95,39 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ex24_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex24.ex24_1" />
+      <module name="AVTO" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ex24.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ex24_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex24.ex24_2" />
+      <module name="AVTO" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ex24.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ex23_5 (3)" />
-        <item itemvalue="Application.ex23_5 (2)" />
+        <item itemvalue="Application.ex24_2" />
+        <item itemvalue="Application.ex24_1" />
+        <item itemvalue="Application.ex23_2" />
+        <item itemvalue="Application.ex23_3" />
         <item itemvalue="Application.ex23_5" />
-        <item itemvalue="Application.ex23_5 (1)" />
-        <item itemvalue="Application.ex22_8" />
       </list>
     </recent_temporary>
   </component>
@@ -168,7 +161,28 @@
       <option name="project" value="LOCAL" />
       <updated>1681284301583</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Locftors">
+      <created>1681415157477</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1681415157477</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Locftors">
+      <created>1681415169700</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1681415169700</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Locftors">
+      <created>1681415188716</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1681415188716</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
