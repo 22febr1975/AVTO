@@ -5,15 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="973d8b8c-a16e-4f2f-a4db-e95ef9e4b354" name="Changes" comment="Locftors">
-      <change afterPath="$PROJECT_DIR$/src/main/java/ex23/ex23_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ex23/ex23_1_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ex23/ex23_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ex23/ex23_3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ex23/ex23_3_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ex23/ex23_4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ex23/ex23_5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ex24/ex24_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ex24/ex24_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ex25/ex25.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/ClassA.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ClassA.java" afterDir="false" />
     </list>
@@ -55,7 +47,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.ex24_2">
+  <component name="RunManager" selected="Application.ex25">
     <configuration name="ex23_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ex23.ex23_2" />
       <module name="AVTO" />
@@ -71,19 +63,6 @@
     </configuration>
     <configuration name="ex23_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ex23.ex23_3" />
-      <module name="AVTO" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ex23.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ex23_5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex23.ex23_5" />
       <module name="AVTO" />
       <extension name="coverage">
         <pattern>
@@ -121,13 +100,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ex25" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex25.ex25" />
+      <module name="AVTO" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ex25.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ex25" />
         <item itemvalue="Application.ex24_2" />
         <item itemvalue="Application.ex24_1" />
         <item itemvalue="Application.ex23_2" />
         <item itemvalue="Application.ex23_3" />
-        <item itemvalue="Application.ex23_5" />
       </list>
     </recent_temporary>
   </component>
@@ -182,7 +174,42 @@
       <option name="project" value="LOCAL" />
       <updated>1681415188716</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Locftors">
+      <created>1681811210503</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1681811210503</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Locftors">
+      <created>1681811236968</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1681811236968</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Locftors">
+      <created>1681811246610</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1681811246610</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Locftors">
+      <created>1681811260842</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1681811260842</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Locftors">
+      <created>1681811271433</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1681811271433</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
