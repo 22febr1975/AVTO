@@ -16,7 +16,7 @@ public class ex25 {
 
         WebDriver driver = new ChromeDriver();
         driver.manage().window().maximize();
-        driver.get("https://www.google.com/search");
+       driver.get("https://www.google.com/search");
         String descrt1 = driver.getWindowHandle();
         Set<String> set1 = driver.getWindowHandles();
         ((JavascriptExecutor) driver).executeScript("window.open()");
@@ -83,35 +83,28 @@ public class ex25 {
         System.out.println("'Confirm password' and 'Password' do not match.");
         Thread.sleep(1000);
         driver.switchTo().window(descrt5);
-//        driver.findElement(By.id("alertBox")).click();
-        WebElement alert1 = driver.findElement
-                (By.id("alertBox"));
-        WebElement alert2 = driver.findElement
-                (By.id("confirmBox"));
-        WebElement alert3 = driver.findElement
-                (By.id("promptBox"));
+
+
+        Thread.sleep(5000);
+        WebElement alert1 = driver.findElement(By.id("alertBox"));
         alert1.click();
         Alert alertfirst = driver.switchTo().alert();
         System.out.println(alertfirst.getText());
         alertfirst.accept();
-
+        Thread.sleep(2000);
+        WebElement alert2 = driver.findElement(By.id("confirmBox"));
         alert2.click();
         Alert alertSecond = driver.switchTo().alert();
         System.out.println(alertSecond.getText());
-        Thread.sleep(2000);
         alertSecond.dismiss();
-
-        //result
+        Thread.sleep(2000);
+        WebElement alert3 = driver.findElement(By.id("promptBox"));
         alert3.click();
         Alert alertThird = driver.switchTo().alert();
-        System.out.println(alertThird.getText());
         Thread.sleep(2000);
-
-
-
-
-
-
+        alertThird.sendKeys("Artur");
+        alertThird.accept();
+        System.out.println(driver.findElement(By.id("output")).getText());
 
     }
 }
