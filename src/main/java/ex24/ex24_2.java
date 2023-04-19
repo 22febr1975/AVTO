@@ -3,7 +3,7 @@ package ex24;
 2) http://www.ashortjourney.com/
         Написать программу, которая будет автоматизировать сценарий показанный на видео "Сценарий для автоматизии.mp4".
 */
-import com.beust.ah.A;
+
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
