@@ -10,7 +10,7 @@ public class ex22_2 {
         private static final String uhomki = "https://uhomki.com.ua/koshki/1074/";
     }
     private static class Locators {
-        private static final By a = By.xpath("/html/body/div[2]/div[2]/div/div[3]/div/div/div/div/div/ul/li[3]/div[1]/a");
+        private static final By a = By.xpath("/html/body/div[2]/footer/div/div/div/div[2]/div/div/ul/li[3]/a");
     }
     public static void main(String[] args) throws InterruptedException {
         System.setProperty("webdriver.chrome.driver", "C:\\Selenium\\chromedriver.exe");
@@ -19,5 +19,6 @@ public class ex22_2 {
         driver.manage().window().maximize();
         driver.get(url.uhomki);
         driver.findElement(Locators.a).click();
+        System.out.println(driver.findElement(Locators.a).getText());
     }
 }
