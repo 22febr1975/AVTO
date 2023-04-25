@@ -17,11 +17,11 @@ import org.testng.annotations.Test;
 import static org.testng.Assert.assertEquals;
 
 public class ex27_3 {
-    private static class url{
-        private static final String homki = "https://uhomki.com.ua/ru/";
+    public static class url{
+        public static final String homki = "https://uhomki.com.ua/ru/";
     }
-    private static class Locators {
-        private static final By c = By.cssSelector(".search__input");
+    public static class Locators {
+        public static final By c = By.cssSelector(".search__input");
 
 
     }

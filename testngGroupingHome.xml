@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<suite name="AllTests Suite">
+    <test name="FirstTestCases">
+        <groups>
+            <run>
+                <include name = "first"/>
+            </run>
+        </groups>
+        <classes>
+            <class name ="ex28.ex28_2.grouping.Groups"/>
+        </classes>
+    </test>
+    <test name="SecondTestCases">
+        <groups>
+            <run>
+                <include name = "second"/>
+            </run>
+        </groups>
+        <classes>
+            <class name ="ex28.ex28_2.grouping.Groups"/>
+        </classes>
+    </test>
+</suite>

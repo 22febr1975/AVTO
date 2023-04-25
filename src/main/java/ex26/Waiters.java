@@ -82,5 +82,9 @@ import java.util.function.Function;
         public void waitForElementToBeSelected(By by){
             waitForFunction(ExpectedConditions.elementToBeSelected(driver.findElement(by)),EXPLICITY_WAIT);
         }
-
+        public void waitForFrameAndSwitchXpath(String xpath){
+            waitForPresenceOfElementLocated(By.xpath(xpath));
+            waitForFunction(ExpectedConditions
+                    .frameToBeAvailableAndSwitchToIt(By.xpath(xpath)), EXPLICITY_WAIT);
+        }
     }

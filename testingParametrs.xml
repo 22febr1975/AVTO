@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<suite name="AllTests Suite">
+    <test name="AllTestCases">
+        <parameter name = "input" value = "смысл"/>
+        <classes>
+            <class name ="ex28.ex28_5.ex28_5"/>
+
+        </classes>
+    </test>
+    <test name="AllTestCases">
+        <parameter name = "input" value = "машина"/>
+        <classes>
+            <class name ="ex28.ex28_5.ex28_5"/>
+
+        </classes>
+    </test>
+    <test name="AllTestCases">
+    <parameter name = "input" value = "input"/>
+    <classes>
+        <class name ="ex28.ex28_5.ex28_5"/>
+
+    </classes>
+</test>
+</suite>

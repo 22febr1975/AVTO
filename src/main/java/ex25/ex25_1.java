@@ -30,6 +30,7 @@ public class ex25_1 {
         driver.get("https://www.google.com/search");
         driver.findElement(By.xpath("//*[@id=\"APjFqb\"]"))
                 .sendKeys("https://www.guinnessworldrecords.com/account/register?\n");
+        Thread.sleep(2000);
         driver.findElement(By.xpath("//*[@id=\"rso\"]/div[1]/div/div/div[1]/div/div/div[1]/div/div/div/a/span")).click();
                driver.switchTo().window(descrt1);
         String descrt3 = driver.getWindowHandle();

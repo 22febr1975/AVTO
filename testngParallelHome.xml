@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<suite name="AllTests Suite" parallel ="classes" threads-count ="2">
+    <test name="AllTestCases">
+        <classes>
+            <class name ="ex28.ex28_3.parallelismus.ParallelClass1"/>
+            <class name ="ex28.ex28_3.parallelismus.ParallelClass2"/>
+        </classes>
+    </test>
+    </suite>

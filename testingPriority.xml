@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<suite name="AllTests Suite">
+    <test name="AllTestCases">
+        <classes>
+            <class name ="ex27.ex27_1"/>
+            <class name ="ex27.ex27_2"/>
+            <class name ="ex27.ex27_3"/>
+            <class name ="ex27.ex27_4"/>
+            <class name ="ex27.ex27_5"/>
+        </classes>
+    </test>
+</suite>
