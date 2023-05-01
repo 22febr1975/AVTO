@@ -3,6 +3,6 @@
 <test name="AllTestCases">
     <classes>
         <class name ="ex27.ex27_2"/>
-    </classes> ?>>
+    </classes>
 </test>
 </suite>

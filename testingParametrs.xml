@@ -7,14 +7,14 @@
 
         </classes>
     </test>
-    <test name="AllTestCases">
+    <test name="AllTestCases2">
         <parameter name = "input" value = "машина"/>
         <classes>
             <class name ="ex28.ex28_5.ex28_5"/>
 
         </classes>
     </test>
-    <test name="AllTestCases">
+    <test name="AllTestCases3">
     <parameter name = "input" value = "input"/>
     <classes>
         <class name ="ex28.ex28_5.ex28_5"/>
